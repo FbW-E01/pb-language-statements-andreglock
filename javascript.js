@@ -1,5 +1,5 @@
 console.log("Hello World");
-console.log("This is not my first js file");
+//console.log("This is not my first js file");
 
 /* 
 1. Remove a parenthesis from the first statement and run the code. Does your statement print? 
